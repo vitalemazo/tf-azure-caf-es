@@ -1,0 +1,9 @@
+root_id                        = "tf-ds-caf"
+root_name                      = "Docsquad Terraform ES"
+default_location               = "centralus"
+deploy_corp_landing_zones      = true
+deploy_online_landing_zones    = true
+deploy_sap_landing_zones       = true
+deploy_management_resources    = false
+deploy_connectivity_resources  = false
+security_contact_email_address = "vmazo@brighthealthgroup.com"
